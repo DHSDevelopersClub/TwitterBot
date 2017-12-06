@@ -1,0 +1,16 @@
+{
+  "name": "OurTwitterBot",
+  "version": "0.0.1",
+  "description": "A starting point",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Test script does nothing as of current\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/DHSDevelopersClub/TwitterBot.git"
+  },
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}

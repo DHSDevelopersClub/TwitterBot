@@ -1,0 +1,2 @@
+# All this does is prevent a lot of undue files from being tracked
+node_modules
